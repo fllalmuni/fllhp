@@ -36,6 +36,10 @@ header.emblem {
   float:left;
 }
 
+img#logo {
+  margin-top:15px;
+}
+
 nav {
 	width: 900px;
 	margin: 0 auto;
