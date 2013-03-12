@@ -1,0 +1,215 @@
+/*
+  FLL Lounge stylesheat
+  Created by Ketaro Takeuchi & Mizuki Okuyama
+*/
+
+html {
+	width:100%;
+	height:100%;
+}
+
+/* 全体 */
+body {
+  background-color:#f0f0f0;
+  margin:0px;
+  text-align:center; /* 基本的に中央揃え */
+}
+
+header {
+	margin-left:auto;
+	margin-right:auto;
+  margin-bottom:0px;
+  width:900px;
+  height:500px;
+  text-align:left;
+}
+
+header.homepages {
+  height:300px;
+}
+
+header.emblem {
+  width:200px;
+  height:120px;
+  background-color:rgba(255,255,255,1);
+  margin:0;
+  float:left;
+}
+
+nav {
+	width: 900px;
+	margin: 0 auto;
+	height: 70px;
+}
+
+/* ここからコンテンツ */
+#main {
+  width:900px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+#topcontent {
+  float: none;
+	width: 880px;
+	margin: 0 auto;
+	text-align: left;
+}	
+
+#content {
+  float: right;
+	width: 680px;
+	margin: 0 auto;
+	text-align: left;　　/* 文章は左揃え */
+}	
+
+aside {
+  float: left;
+  width: 200px;
+  text-align: left;
+  background-color:rgba(144,136,144,0.64)
+}
+
+#door {
+    text-align: center;	
+}
+
+footer {
+	clear: both;
+}
+
+/* ここからヘッダー */
+/* ヘッダー内ヘッダ */
+header.head {
+  width:900px;
+  height:120px;
+  background-color:rgba(0,0,0,0.34);
+  color:#ffffff;
+}
+
+header.space {
+  background-color:rgba(0,0,0,0);
+  width:100%;
+  height:135px;
+}
+
+/* ヘッダー内フッタ */
+header.footer {
+  width:100%;
+  height:45px;
+  background-color:rgba(0,0,0,0.34);
+  text-align:center;
+  margin:0px;
+  margin-bottom:0px;
+  bottom:0;
+}
+
+/* ボタン */
+div#button1 {
+  width:14.2%;
+  height:45px;
+  color:#ffffff;
+  line-height:45px;
+  text-align:center;
+  background-color:rgba(130,130,130,0.34);
+  float:left;
+  text-shadow: 1px 1px 1px #000;
+  font-size:20px;
+  vertical-align: middle;
+  cursor:pointer;
+}
+
+div#button2 {
+  width:14.2%;
+  height:45px;
+  color:#ffffff;
+  line-height:45px;
+  background-color:rgba(130,130,130,0.34);
+  text-align:center;
+  float:left;
+  text-shadow: 1px 1px 1px #000;
+  font-size:20px;
+  vertical-align: middle;
+  cursor:pointer;
+}
+
+div#button3 {
+  width:14.2%;
+  height:45px;
+  color:#ffffff;
+  line-height:45px;
+  background-color:rgba(130,130,130,0.34);
+  text-align:center;
+  float:left;
+  text-shadow: 1px 1px 1px #000;
+  font-size:20px;
+  vertical-align: middle;
+  cursor:pointer;
+}
+
+div#button4 {
+  width:14.2%;
+  height:45px;
+  color:#ffffff;
+  line-height:45px;
+  background-color:rgba(130,130,130,0.34);
+  text-align:center;
+  float:left;
+  text-shadow: 1px 1px 1px #000;
+  font-size:20px;
+  vertical-align: middle;
+  cursor:pointer;
+}
+
+div#button5 {
+  width:14.2%;
+  height:45px;
+  color:#ffffff;
+  line-height:45px;
+  text-align:center;
+  background-color:rgba(130,130,130,0.34);
+  float:left;
+  text-shadow: 1px 1px 1px #000;
+  font-size:20px;
+  vertical-align: middle;
+  cursor:pointer;
+}
+
+div#button6 {
+  width:14.2%;
+  height:45px;
+  color:#ffffff;
+  line-height:45px;
+  text-align:center;
+  background-color:rgba(130,130,130,0.34);
+  float:left;
+  text-shadow: 1px 1px 1px #000;
+  font-size:20px;
+  vertical-align: middle;
+  cursor:pointer;
+}
+
+div#button7 {
+  width:14.2%;
+  height:45px;
+  color:#ffffff;
+  line-height:45px;
+  text-align:center;
+  background-color:rgba(130,130,130,0.34);
+  float:left;
+  text-shadow: 1px 1px 1px #000;
+  font-size:20px;
+  vertical-align: middle;
+  cursor:pointer;
+}
+
+div.topnews {
+  width:870px;
+  height:275px;
+  font-size:50px;
+  color:#ffffff;
+	text-shadow: 1px 1px 1px #000; 
+  margin-top:60px;
+  margin-left:30px;
+}
