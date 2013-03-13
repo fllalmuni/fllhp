@@ -82,6 +82,8 @@ footer {
 	clear: both;
 }
 
+img {float: left;}
+
 /* ここからヘッダー */
 /* ヘッダー内ヘッダ */
 header.head {
