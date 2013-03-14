@@ -22,6 +22,7 @@ header {
   width:900px;
   height:500px;
   text-align:left;
+  background-size:cover;
 }
 
 header.homepages {
@@ -112,7 +113,7 @@ header.footer {
 
 /* ボタン */
 div#button1 {
-  width:14.2%;
+  width:150px;
   height:45px;
   color:#ffffff;
   line-height:45px;
@@ -126,7 +127,7 @@ div#button1 {
 }
 
 div#button2 {
-  width:14.2%;
+  width:150px;
   height:45px;
   color:#ffffff;
   line-height:45px;
@@ -140,7 +141,7 @@ div#button2 {
 }
 
 div#button3 {
-  width:14.2%;
+  width:150px;
   height:45px;
   color:#ffffff;
   line-height:45px;
@@ -154,7 +155,7 @@ div#button3 {
 }
 
 div#button4 {
-  width:14.2%;
+  width:150px;
   height:45px;
   color:#ffffff;
   line-height:45px;
@@ -168,7 +169,7 @@ div#button4 {
 }
 
 div#button5 {
-  width:14.2%;
+  width:150px;
   height:45px;
   color:#ffffff;
   line-height:45px;
@@ -182,21 +183,7 @@ div#button5 {
 }
 
 div#button6 {
-  width:14.2%;
-  height:45px;
-  color:#ffffff;
-  line-height:45px;
-  text-align:center;
-  background-color:rgba(130,130,130,0.34);
-  float:left;
-  text-shadow: 1px 1px 1px #000;
-  font-size:20px;
-  vertical-align: middle;
-  cursor:pointer;
-}
-
-div#button7 {
-  width:14.2%;
+  width:150px;
   height:45px;
   color:#ffffff;
   line-height:45px;
