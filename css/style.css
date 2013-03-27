@@ -54,6 +54,10 @@ nav {
   text-align: center;
 }
 
+h2{
+  background-color:rgba(157,155,155,1);	
+}
+
 #topcontent {
   float: none;
 	width: 880px;
@@ -79,8 +83,15 @@ aside {
   text-align: center;	
 }
 
+#iine{
+  text-align: left;	
+}
+
 footer {
+    width: 100%;
 	clear: both;
+	text-align: right;	
+	background-color:rgba(143,143,143,1);
 }
 
 
