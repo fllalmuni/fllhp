@@ -3,6 +3,10 @@
   Created by Ketaro Takeuchi & Mizuki Okuyama
 */
 
+a {
+  border-style:none;
+}
+
 html {
 	width:100%;
 	height:100%;
